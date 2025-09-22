@@ -1,1 +1,2 @@
 # DataBaseManagementforAnalyticsProject
+#PLEASE CREATE ANOTHER BRANCH, DONT MAKE CHANGES TO MASTER!!!!!
