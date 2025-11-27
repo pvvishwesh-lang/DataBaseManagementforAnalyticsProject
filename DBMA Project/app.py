@@ -1,12 +1,8 @@
 import streamlit as st
 from sqlalchemy import text,create_engine
-import bcrypt
 import os
-import uuid
 from dotenv import load_dotenv
 import pandas as pd
-import datetime as dt
-from datetime import datetime, timedelta,date
 from pymongo import MongoClient
 import json
 import plotly.express as px
@@ -24,16 +20,28 @@ def dataframe_visualizer(df, key_prefix):
         y_col = None
     if chart_type == "Bar Chart":
         fig = px.bar(df, x=x_col, y=y_col)
-        st.plotly_chart(fig)
+        st.plotly_chart(fig,key=f"{key_prefix}_bar_chart")
     elif chart_type == "Line Chart":
         fig = px.line(df, x=x_col, y=y_col)
-        st.plotly_chart(fig)
+        st.plotly_chart(fig,key=f"{key_prefix}_line_chart")
     elif chart_type == "Pie Chart":
         fig = px.pie(df, names=x_col)
-        st.plotly_chart(fig)
+        st.plotly_chart(fig,key=f"{key_prefix}_pie_chart")
+
+def visualizer(queries):
+    for title,df,key_prefix in queries:
+        st.subheader(title)
+        filter_col=st.selectbox(f"Select filter column for ({title}",df.columns.tolist(),key=f"{key_prefix}_filter_col")
+        filtered_df=df.copy()
+        if df[filter_col].dtype==object:
+            filter_value=st.text_input(f"Filter value for {filter_col}",key=f"{key_prefix}_filter_value")
+            if filter_value:
+                filtered_df=df[df[filter_col].astype(str).str.contains(filter_value, case=False)]
+            st.dataframe(filtered_df)
+            dataframe_visualizer(filtered_df, key_prefix=key_prefix)
 
 try:
-    load_dotenv('/Users/vishweshpv/Downloads/Database Management for analytics /app.env') # Using a env file to store creds
+    load_dotenv('/Users/vishweshpv/Library/Mobile Documents/com~apple~CloudDocs/Database Management for analytics /app.env') # Using a env file to store creds
     engine_uri = f"mysql+pymysql://{os.environ['mysqluser']}:{os.environ['mysqlpass']}@{os.environ['mysqlhost']}/{os.environ['mysqldb']}?autocommit=true" #using sqlalchemy to read since it is pandas recommended way
     connection=create_engine(engine_uri)# COnnection string creation
     print("Connected to MySQL!")
@@ -128,17 +136,7 @@ def sql_query_visualizer():
             ('Public Places with Trash Levels from Daily Operational Logs',df14,'df14'),
             ('User Details with Concatenated Address',df15,'df15')
         ]
-
-        for title,df,key_prefix in queries:
-            st.subheader(title)
-            filter_col=st.selectbox(f"Select filter column for ({title}",df.columns.tolist(),key=f"{key_prefix}_filter_col")
-            filtered_df=df.copy()
-            if df[filter_col].dtype==object:
-                filter_value=st.text_input(f"Filter value for {filter_col}",key=f"{key_prefix}_filter_value")
-                if filter_value:
-                    filtered_df=df[df[filter_col].astype(str).str.contains(filter_value, case=False)]
-                st.dataframe(filtered_df)
-                dataframe_visualizer(filtered_df, key_prefix=key_prefix)
+        visualizer(queries)
                     
 
 def nosql_query_visualizer():
@@ -164,16 +162,8 @@ def nosql_query_visualizer():
             ('Grouping by Trash Level with respect to visitor count',df3,'df3')
         ]
 
-        for title,df,key_prefix in queries:
-            st.subheader(title)
-            filter_col=st.selectbox(f"Select filter column for ({title}",df.columns.tolist(),key=f"{key_prefix}_filter_col")
-            filtered_df=df.copy()
-            if df[filter_col].dtype==object:
-                filter_value=st.text_input(f"Filter value for {filter_col}",key=f"{key_prefix}_filter_value")
-                if filter_value:
-                    filtered_df=df[df[filter_col].astype(str).str.contains(filter_value, case=False)]
-                st.dataframe(filtered_df)
-                dataframe_visualizer(filtered_df, key_prefix=key_prefix)
+        visualizer(queries)
+
 
 st.title("SpotEase")
 db_choice=st.radio("Select Database Type:",['SQL','NoSQL'])
