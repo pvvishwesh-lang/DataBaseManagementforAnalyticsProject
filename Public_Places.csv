@@ -1,0 +1,101 @@
+Place_ID,Name,Description,Location,City,State,Country,Opening_Time,Closing_Time,contact_info,Total_Spots,Space_Categories_ID,Log_ID,Created_At,Updated_At
+PL0016,Oak Center,Community central facility spot secure gathering gathering available spot service,"Phoenix, AZ",Phoenix,AZ,USA,06:00,19:00,320-114-3275,20,SC012,LOG00001,1/12/23 04:28,23/5/24 20:15
+PL0021,Maple Park,Central available central space central access nearby meeting book facility,"Houston, TX",Houston,TX,USA,08:00,22:00,550-801-5404,4,SC036,LOG00002,26/12/22 16:20,19/11/24 00:11
+PL0065,Maple Park,Public friendly spot secure secure reserve facility open public book,"Houston, TX",Houston,TX,USA,08:00,19:00,525-812-5523,48,SC084,LOG00003,11/1/22 20:57,14/4/24 05:22
+PL0036,Civic Plaza,Event access book access friendly service event community friendly central,"Miami, FL",Miami,FL,USA,07:00,20:00,409-237-2378,25,SC027,LOG00004,10/5/20 19:27,30/1/25 06:51
+PL0089,Union Library,Nearby event central family meeting public family meeting nearby available,"San Francisco, CA",San Francisco,CA,USA,06:00,20:00,720-248-5971,12,SC033,LOG00005,5/1/23 23:55,20/8/25 03:52
+PL0086,Union Center,Community open spot meeting family family central nearby family access,"Houston, TX",Houston,TX,USA,06:00,21:00,939-425-6772,34,SC065,LOG00006,7/12/20 21:48,7/10/24 04:41
+PL0057,Liberty Hall,Event book event event area gathering gathering available nearby family,"San Francisco, CA",San Francisco,CA,USA,06:00,18:00,163-260-6826,47,SC018,LOG00007,17/5/23 04:28,27/6/25 10:10
+PL0002,Oak Plaza,Service space gathering friendly gathering book open friendly access area,"Miami, FL",Miami,FL,USA,09:00,21:00,276-369-1369,44,SC047,LOG00008,25/6/22 05:18,11/1/24 18:50
+PL0052,Central Hall,Central open friendly nearby friendly friendly event reserve available gathering,"Austin, TX",Austin,TX,USA,06:00,23:00,446-901-9434,16,SC062,LOG00009,23/7/24 13:09,8/10/25 01:01
+PL0067,Civic Park,Friendly family book meeting book gathering public space facility book,"Boston, MA",Boston,MA,USA,07:00,18:00,234-878-8247,18,SC089,LOG00010,12/7/20 21:35,4/7/24 13:58
+PL0055,Maple Plaza,Reserve open gathering reserve open open central facility secure open,"Houston, TX",Houston,TX,USA,06:00,23:00,110-433-4908,17,SC053,LOG00011,7/7/23 22:44,21/4/24 23:10
+PL0056,Central Plaza,Space public space community area facility friendly community meeting nearby,"New York, NY",New York,NY,USA,06:00,18:00,433-223-1282,25,SC078,LOG00012,8/4/24 09:40,12/5/25 17:13
+PL0059,Maple Park,Reserve meeting open public service spot family service public friendly,"Boston, MA",Boston,MA,USA,08:00,23:00,272-543-5994,29,SC015,LOG00013,19/9/23 19:41,3/9/24 08:51
+PL0023,Riverside Plaza,Secure secure service area space spot access space access public,"Miami, FL",Miami,FL,USA,06:00,18:00,582-552-6975,9,SC008,LOG00014,22/4/20 10:58,17/9/25 22:47
+PL0061,Union Plaza,Gathering reserve reserve gathering available spot family secure area public,"Seattle, WA",Seattle,WA,USA,06:00,18:00,318-352-5742,48,SC015,LOG00015,23/1/22 04:38,16/11/24 13:50
+PL0063,Riverside Library,Meeting reserve secure secure community event service book meeting secure,"Miami, FL",Miami,FL,USA,09:00,23:00,203-196-5969,46,SC049,LOG00016,17/7/24 12:07,5/6/24 07:40
+PL0014,Riverside Hall,Family meeting central family space area spot area service service,"San Francisco, CA",San Francisco,CA,USA,06:00,20:00,215-374-7906,36,SC053,LOG00017,18/9/22 01:03,21/2/25 23:03
+PL0026,Oak Library,Family friendly public event event gathering community spot book space,"San Francisco, CA",San Francisco,CA,USA,06:00,21:00,932-268-5446,41,SC026,LOG00018,30/11/21 06:53,14/11/25 17:19
+PL0064,Union Park,Central friendly family reserve meeting secure central open community gathering,"Chicago, IL",Chicago,IL,USA,09:00,23:00,261-533-2901,26,SC010,LOG00019,28/1/24 10:18,16/10/24 07:06
+PL0058,Oak Hall,Available book facility access open nearby nearby secure community gathering,"Chicago, IL",Chicago,IL,USA,06:00,23:00,798-896-8138,15,SC078,LOG00020,30/3/22 22:18,24/3/24 12:40
+PL0030,Maple Plaza,Event access available central friendly spot family meeting public area,"Houston, TX",Houston,TX,USA,08:00,19:00,647-566-8822,14,SC094,LOG00021,25/5/24 17:08,10/11/25 22:23
+PL0075,Oak Hall,Service reserve central area available space event friendly secure available,"Denver, CO",Denver,CO,USA,06:00,23:00,851-160-9023,37,SC008,LOG00022,2/3/24 10:24,21/7/25 17:56
+PL0012,Civic Hall,Service community book service nearby meeting area secure secure spot,"Chicago, IL",Chicago,IL,USA,06:00,22:00,223-285-5326,38,SC006,LOG00023,31/10/24 00:50,14/12/24 15:54
+PL0090,Union Plaza,Family available spot secure area meeting spot secure friendly open,"Boston, MA",Boston,MA,USA,07:00,23:00,383-699-4043,10,SC062,LOG00024,12/10/22 06:36,15/4/25 06:44
+PL0032,Maple Hall,Spot central gathering spot public space access gathering spot facility,"Denver, CO",Denver,CO,USA,08:00,21:00,605-927-3106,27,SC048,LOG00025,11/10/21 09:56,26/1/25 00:53
+PL0044,Central Plaza,Secure book space nearby space secure book reserve community service,"Austin, TX",Austin,TX,USA,08:00,20:00,732-864-5147,40,SC027,LOG00026,20/3/22 15:34,3/5/24 08:27
+PL0045,Central Plaza,Event community book community area area book meeting available community,"Chicago, IL",Chicago,IL,USA,07:00,21:00,105-966-4543,7,SC092,LOG00027,8/6/24 20:43,24/6/24 09:10
+PL0049,Central Center,Central public open service friendly area service access facility open,"Chicago, IL",Chicago,IL,USA,07:00,19:00,590-710-1126,20,SC037,LOG00028,7/7/22 23:08,25/7/24 09:53
+PL0054,Liberty Hall,Spot reserve friendly central family public spot friendly secure meeting,"Houston, TX",Houston,TX,USA,07:00,23:00,552-577-5779,1,SC022,LOG00029,4/1/20 03:31,12/3/24 15:12
+PL0034,Union Library,Nearby nearby friendly reserve central community meeting secure friendly access,"Chicago, IL",Chicago,IL,USA,09:00,22:00,935-805-2362,31,SC084,LOG00030,7/4/24 05:26,11/2/25 08:17
+PL0029,Central Center,Secure central community book gathering friendly public central event area,"Chicago, IL",Chicago,IL,USA,08:00,23:00,402-918-7445,46,SC009,LOG00031,22/10/20 04:45,13/7/24 06:58
+PL0068,Union Hall,Meeting public event reserve family service access reserve gathering secure,"Miami, FL",Miami,FL,USA,09:00,18:00,455-697-0460,46,SC084,LOG00032,23/3/24 07:33,5/11/25 04:16
+PL0006,Maple Plaza,Spot community event area reserve spot reserve central book secure,"Seattle, WA",Seattle,WA,USA,07:00,20:00,322-225-6997,46,SC049,LOG00033,19/2/24 09:00,17/4/24 11:56
+PL0082,Riverside Center,Meeting public meeting reserve book access facility friendly public reserve,"Houston, TX",Houston,TX,USA,07:00,19:00,738-459-7861,15,SC016,LOG00034,1/4/22 01:23,7/10/24 06:59
+PL0070,Liberty Plaza,Book access spot book service nearby gathering service area space,"Austin, TX",Austin,TX,USA,06:00,19:00,235-492-5782,20,SC028,LOG00035,18/5/23 20:06,9/8/24 21:32
+PL0097,Maple Park,Spot access spot book reserve reserve area community nearby community,"Chicago, IL",Chicago,IL,USA,09:00,19:00,362-741-0470,24,SC100,LOG00036,26/8/21 16:45,27/5/24 20:04
+PL0098,Riverside Center,Secure space public nearby reserve gathering community nearby gathering reserve,"Boston, MA",Boston,MA,USA,06:00,21:00,850-997-6282,10,SC047,LOG00037,10/6/20 08:55,19/3/24 00:27
+PL0062,Union Park,Event spot open gathering access friendly friendly central public book,"Phoenix, AZ",Phoenix,AZ,USA,07:00,18:00,505-695-9765,30,SC041,LOG00038,29/7/24 10:48,12/8/24 18:11
+PL0037,Central Plaza,Spot facility family space public spot community book facility open,"Miami, FL",Miami,FL,USA,06:00,21:00,158-443-2483,19,SC085,LOG00039,23/5/20 16:33,28/2/24 13:25
+PL0042,Central Library,Book reserve access facility meeting open secure available open public,"Seattle, WA",Seattle,WA,USA,09:00,19:00,900-164-6938,44,SC035,LOG00040,21/6/22 13:02,1/7/24 07:53
+PL0087,Central Library,Space nearby open secure facility service service space access service,"Denver, CO",Denver,CO,USA,09:00,21:00,227-668-3313,12,SC001,LOG00041,17/3/23 07:55,29/8/25 00:19
+PL0009,Liberty Plaza,Community open gathering nearby event facility friendly public spot community,"San Francisco, CA",San Francisco,CA,USA,08:00,20:00,509-961-1936,1,SC016,LOG00042,15/12/21 02:27,15/2/24 15:12
+PL0053,Oak Library,Facility book meeting available nearby secure community friendly available central,"New York, NY",New York,NY,USA,09:00,23:00,595-385-4563,13,SC055,LOG00043,26/8/24 15:32,15/9/24 11:00
+PL0011,Liberty Park,Nearby family reserve available family reserve spot friendly reserve spot,"San Francisco, CA",San Francisco,CA,USA,06:00,23:00,279-431-9903,40,SC070,LOG00044,31/3/24 01:55,6/8/25 18:59
+PL0099,Civic Hall,Public open reserve reserve book meeting access event friendly book,"Phoenix, AZ",Phoenix,AZ,USA,08:00,18:00,491-166-5344,39,SC097,LOG00045,27/10/22 05:50,12/1/24 14:25
+PL0035,Union Center,Facility service friendly friendly reserve facility friendly event open friendly,"Chicago, IL",Chicago,IL,USA,09:00,19:00,498-342-3216,24,SC018,LOG00046,24/11/24 04:40,8/11/24 00:21
+PL0074,Liberty Library,Family access spot meeting book reserve book public spot meeting,"Houston, TX",Houston,TX,USA,08:00,23:00,716-331-8014,46,SC059,LOG00047,17/6/22 12:53,24/4/25 18:17
+PL0100,Union Hall,Spot secure central service reserve access open nearby service nearby,"Boston, MA",Boston,MA,USA,07:00,23:00,826-624-6191,15,SC051,LOG00048,11/8/24 20:21,11/9/25 02:48
+PL0038,Central Center,Event central gathering nearby public access reserve gathering central area,"Houston, TX",Houston,TX,USA,07:00,20:00,872-484-8303,11,SC078,LOG00049,27/9/21 21:23,26/7/24 18:17
+PL0001,Civic Park,Secure community public available family central open meeting access service,"Phoenix, AZ",Phoenix,AZ,USA,06:00,19:00,304-705-1512,9,SC016,LOG00050,18/6/22 15:08,7/1/24 08:55
+PL0019,Riverside Hall,Community reserve friendly book reserve open secure available secure area,"San Francisco, CA",San Francisco,CA,USA,09:00,20:00,373-433-5903,46,SC091,LOG00051,4/3/21 00:15,19/7/24 23:14
+PL0092,Maple Park,Public community secure central public friendly meeting central spot friendly,"Boston, MA",Boston,MA,USA,06:00,18:00,587-543-8864,46,SC011,LOG00052,12/10/20 17:29,30/7/25 16:10
+PL0069,Civic Library,Book community access event community spot book space meeting friendly,"New York, NY",New York,NY,USA,06:00,18:00,984-684-6726,35,SC022,LOG00053,9/9/23 00:00,11/9/24 10:56
+PL0088,Maple Library,Reserve service event area reserve spot open community area community,"Houston, TX",Houston,TX,USA,07:00,20:00,307-341-8635,42,SC032,LOG00054,30/12/22 04:13,2/1/24 23:36
+PL0077,Liberty Hall,Nearby book family service area space secure service nearby access,"Austin, TX",Austin,TX,USA,09:00,19:00,744-959-7622,44,SC032,LOG00055,8/10/24 04:17,24/10/24 10:53
+PL0080,Riverside Plaza,Reserve community family reserve public meeting public access event community,"New York, NY",New York,NY,USA,07:00,21:00,586-804-3180,27,SC063,LOG00056,11/10/22 04:38,28/11/24 14:33
+PL0081,Union Hall,Public nearby friendly public event community book space secure access,"Houston, TX",Houston,TX,USA,06:00,21:00,876-691-3383,32,SC011,LOG00057,28/5/22 09:01,24/9/25 05:33
+PL0083,Maple Park,Available space space access event available area event facility service,"New York, NY",New York,NY,USA,06:00,20:00,497-326-7385,18,SC045,LOG00058,6/5/22 08:59,23/11/24 01:43
+PL0084,Central Park,Space reserve area facility central public open central gathering event,"New York, NY",New York,NY,USA,06:00,23:00,876-276-9732,22,SC047,LOG00059,16/7/24 13:09,26/8/25 19:15
+PL0010,Liberty Plaza,Spot central friendly facility reserve available friendly service facility access,"Miami, FL",Miami,FL,USA,09:00,19:00,564-484-1986,40,SC086,LOG00060,18/4/22 14:05,26/8/24 14:23
+PL0005,Riverside Park,Service event event available community family service meeting secure event,"Denver, CO",Denver,CO,USA,09:00,22:00,704-341-8924,24,SC034,LOG00061,5/11/22 12:54,6/5/24 01:44
+PL0043,Union Library,Area book secure secure available reserve family gathering event space,"Austin, TX",Austin,TX,USA,06:00,18:00,290-848-9782,16,SC048,LOG00062,13/2/21 03:19,17/1/24 15:21
+PL0076,Maple Library,Central public facility book book service public community open secure,"Austin, TX",Austin,TX,USA,06:00,23:00,461-601-2893,48,SC045,LOG00063,22/2/24 19:13,1/12/25 22:10
+PL0046,Liberty Plaza,Nearby book book nearby book event available family event family,"Seattle, WA",Seattle,WA,USA,09:00,18:00,104-782-0322,25,SC066,LOG00064,28/2/24 08:27,30/5/25 21:23
+PL0048,Civic Hall,Available meeting community secure event area service central book area,"Houston, TX",Houston,TX,USA,07:00,22:00,939-653-4535,12,SC057,LOG00065,13/1/20 02:21,18/5/25 02:32
+PL0085,Oak Center,Book area gathering family public reserve public spot central book,"Phoenix, AZ",Phoenix,AZ,USA,07:00,19:00,633-446-9556,5,SC070,LOG00066,3/12/21 10:58,30/4/25 07:21
+PL0094,Union Hall,Book reserve central facility nearby area nearby meeting space event,"Chicago, IL",Chicago,IL,USA,08:00,18:00,215-870-4489,12,SC055,LOG00067,16/11/21 21:49,4/7/24 15:28
+PL0007,Liberty Center,Secure gathering space reserve secure space space family facility access,"Houston, TX",Houston,TX,USA,08:00,23:00,694-736-7192,50,SC051,LOG00068,11/4/23 18:09,13/10/25 15:24
+PL0079,Oak Park,Public facility space service open public facility open book area,"Boston, MA",Boston,MA,USA,09:00,20:00,107-131-9015,12,SC069,LOG00069,10/8/20 15:58,3/11/25 15:59
+PL0072,Liberty Center,Access open nearby access community available space public public service,"Houston, TX",Houston,TX,USA,06:00,20:00,178-378-7840,22,SC100,LOG00070,26/10/20 08:13,7/10/24 00:21
+PL0095,Union Plaza,Available meeting family meeting facility gathering meeting central friendly friendly,"New York, NY",New York,NY,USA,07:00,23:00,710-190-2281,25,SC058,LOG00071,19/6/24 17:25,9/3/24 04:07
+PL0096,Maple Plaza,Public event public friendly gathering facility facility nearby available available,"Phoenix, AZ",Phoenix,AZ,USA,07:00,23:00,175-838-7278,36,SC064,LOG00072,29/12/22 17:56,29/6/25 19:31
+PL0024,Central Park,Book spot meeting gathering space friendly area spot book community,"Boston, MA",Boston,MA,USA,09:00,21:00,656-443-1514,22,SC084,LOG00073,22/5/24 00:56,9/4/25 18:49
+PL0008,Union Hall,Reserve access open service facility facility nearby service service book,"Miami, FL",Miami,FL,USA,09:00,21:00,245-530-9908,36,SC048,LOG00074,17/5/23 14:52,22/4/24 04:24
+PL0017,Maple Center,Available nearby event book event meeting friendly facility area nearby,"Denver, CO",Denver,CO,USA,08:00,19:00,839-721-9090,2,SC089,LOG00075,16/8/23 00:04,15/9/25 17:20
+PL0020,Central Plaza,Spot facility spot book spot book spot space public space,"Boston, MA",Boston,MA,USA,08:00,22:00,408-316-6304,13,SC087,LOG00076,20/11/23 19:24,21/9/25 09:12
+PL0039,Oak Center,Community public space gathering secure service central family facility spot,"Miami, FL",Miami,FL,USA,06:00,20:00,841-889-4861,45,SC092,LOG00077,11/3/22 22:19,28/6/24 15:06
+PL0066,Maple Center,Central space nearby open space nearby book spot nearby available,"Boston, MA",Boston,MA,USA,09:00,19:00,808-857-9959,26,SC063,LOG00078,9/11/23 21:42,25/6/24 23:46
+PL0051,Oak Hall,Spot facility event reserve open central community family reserve gathering,"Miami, FL",Miami,FL,USA,09:00,21:00,527-958-0698,25,SC063,LOG00079,5/8/23 21:25,13/3/24 14:53
+PL0025,Liberty Center,Public community reserve spot secure central public service gathering facility,"San Francisco, CA",San Francisco,CA,USA,09:00,19:00,180-145-7774,4,SC017,LOG00080,12/4/23 15:52,9/6/25 23:43
+PL0003,Central Plaza,Event nearby open space friendly book available central space available,"Seattle, WA",Seattle,WA,USA,08:00,21:00,772-770-5390,47,SC096,LOG00081,5/12/21 00:17,13/10/24 19:12
+PL0073,Maple Center,Gathering public central open reserve event secure facility service reserve,"Seattle, WA",Seattle,WA,USA,08:00,22:00,989-106-0554,4,SC022,LOG00082,19/3/24 14:11,4/7/24 12:34
+PL0004,Riverside Hall,Access area service friendly book book family friendly access open,"Phoenix, AZ",Phoenix,AZ,USA,08:00,18:00,574-601-2003,25,SC093,LOG00083,24/2/24 04:35,16/6/25 19:41
+PL0013,Maple Park,Family event meeting public space open public meeting space event,"New York, NY",New York,NY,USA,09:00,23:00,877-298-6999,12,SC004,LOG00084,29/4/20 10:51,3/2/25 03:35
+PL0033,Maple Center,Meeting space central meeting service service space meeting area public,"New York, NY",New York,NY,USA,08:00,18:00,531-289-9248,13,SC087,LOG00085,27/5/21 11:01,30/11/25 09:59
+PL0060,Riverside Park,Public nearby community central event gathering meeting reserve book nearby,"Chicago, IL",Chicago,IL,USA,06:00,23:00,525-992-2813,6,SC089,LOG00086,20/11/24 08:08,12/8/25 21:52
+PL0028,Riverside Park,Gathering space community public meeting open spot friendly community community,"Boston, MA",Boston,MA,USA,07:00,20:00,242-158-3729,47,SC023,LOG00087,1/10/24 20:11,8/9/24 06:30
+PL0015,Central Plaza,Spot spot public friendly book public spot access secure service,"Chicago, IL",Chicago,IL,USA,07:00,20:00,239-401-2352,35,SC055,LOG00088,14/7/22 01:31,2/1/24 16:55
+PL0027,Liberty Plaza,Family spot event meeting event public family central facility central,"Miami, FL",Miami,FL,USA,07:00,23:00,782-796-8782,16,SC062,LOG00089,22/4/24 12:04,19/1/25 07:28
+PL0022,Riverside Plaza,Space spot community reserve nearby access space area open event,"Boston, MA",Boston,MA,USA,06:00,18:00,816-194-0928,38,SC081,LOG00090,17/9/24 09:07,10/9/24 03:55
+PL0078,Oak Plaza,Area reserve spot area event central available secure community facility,"Miami, FL",Miami,FL,USA,09:00,18:00,797-689-5447,22,SC039,LOG00091,7/8/20 00:11,24/12/24 06:46
+PL0040,Riverside Library,Reserve facility central open spot gathering central area family meeting,"Chicago, IL",Chicago,IL,USA,08:00,23:00,697-685-3161,32,SC053,LOG00092,6/2/23 04:24,12/1/25 02:47
+PL0031,Riverside Library,Gathering family friendly gathering service open reserve service facility nearby,"Seattle, WA",Seattle,WA,USA,09:00,20:00,678-142-5705,14,SC029,LOG00093,14/7/22 08:32,9/2/25 07:57
+PL0041,Liberty Plaza,Access open area community community available book facility event gathering,"Seattle, WA",Seattle,WA,USA,07:00,21:00,914-323-0788,8,SC091,LOG00094,31/10/21 16:54,11/5/25 16:47
+PL0047,Riverside Park,Available family event reserve friendly available space gathering meeting open,"Austin, TX",Austin,TX,USA,07:00,23:00,894-667-5509,48,SC043,LOG00095,23/7/21 11:33,21/10/25 01:26
+PL0050,Central Plaza,Gathering open access service reserve friendly secure friendly community gathering,"Miami, FL",Miami,FL,USA,06:00,20:00,707-196-7554,36,SC094,LOG00096,10/6/21 13:51,19/4/25 11:08
+PL0071,Oak Center,Reserve access service meeting available open facility central book central,"San Francisco, CA",San Francisco,CA,USA,07:00,22:00,363-884-8067,41,SC090,LOG00097,29/1/21 13:32,31/7/25 23:55
+PL0091,Riverside Library,Facility reserve available community open open gathering available space space,"New York, NY",New York,NY,USA,07:00,21:00,252-289-1877,47,SC068,LOG00098,28/1/24 00:25,9/9/25 03:37
+PL0093,Oak Plaza,Facility area service meeting service community community service public family,"New York, NY",New York,NY,USA,09:00,19:00,185-218-2481,15,SC055,LOG00099,28/10/20 12:51,2/11/25 10:26
+PL0018,Central Center,Access family reserve friendly service friendly available space community secure,"Austin, TX",Austin,TX,USA,09:00,23:00,505-261-4851,39,SC046,LOG00100,28/12/20 00:18,7/5/24 16:50

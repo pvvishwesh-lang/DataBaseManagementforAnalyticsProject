@@ -1,0 +1,101 @@
+Space_Category_ID,Category_Name,Description,Created_At,Updated_At
+SC001,Auditorium,Facility friendly secure facility area spot community reserve,2021-03-22 04:49:54,2025-01-02 10:46:09
+SC002,Gym,Available space facility event reserve family reserve community,2022-07-20 16:53:06,2024-05-21 14:45:31
+SC003,Community Hall,Friendly gathering facility available family space family event,2020-03-07 10:47:54,2025-03-12 09:49:21
+SC004,Courtyard,Service friendly friendly space family reserve space central,2023-10-13 13:15:08,2024-02-22 04:02:24
+SC005,Auditorium,Gathering available gathering open spot space reserve area,2021-11-16 08:41:18,2025-07-06 04:08:04
+SC006,Garden,Reserve friendly family reserve friendly friendly event family,2022-10-28 15:23:54,2024-10-10 01:58:58
+SC007,Library,Gathering facility service secure facility service secure family,2022-07-14 22:36:29,2025-01-11 02:23:21
+SC008,Gym,Family facility space family meeting nearby public meeting,2023-11-28 05:23:12,2025-05-23 05:28:46
+SC009,Gym,Service available meeting nearby service public event access,2023-08-13 00:46:55,2024-10-25 06:53:00
+SC010,Library,Community secure secure service event spot book friendly,2022-09-22 21:36:12,2025-11-12 19:18:09
+SC011,Plaza,Access event public friendly open meeting facility nearby,2024-04-25 01:43:22,2024-05-31 12:51:24
+SC012,Open Space,Facility open central reserve meeting nearby secure book,2023-09-26 05:35:17,2024-06-14 08:39:42
+SC013,Library,Community event public meeting open spot community event,2021-12-05 05:23:11,2025-01-16 16:19:36
+SC014,Plaza,Nearby service public community central friendly central central,2020-11-15 00:09:22,2025-07-13 18:28:27
+SC015,Rooftop,Available meeting family nearby friendly nearby book friendly,2024-02-01 16:05:47,2024-12-12 04:05:21
+SC016,Garden,Central public spot event access secure access space,2020-04-22 22:08:31,2025-10-18 07:06:18
+SC017,Courtyard,Service friendly friendly open space secure book nearby,2022-11-14 14:21:37,2024-07-18 17:51:26
+SC018,Rooftop,Available service space book gathering reserve access gathering,2020-01-25 10:21:49,2024-12-19 12:47:32
+SC019,Open Space,Nearby family space reserve access nearby secure meeting,2024-07-08 15:25:52,2025-02-28 05:04:53
+SC020,Courtyard,Spot public event nearby service event central spot,2022-02-08 03:13:13,2024-01-07 14:54:28
+SC021,Open Space,Access spot reserve friendly public open gathering spot,2020-03-27 10:59:42,2025-08-22 11:03:54
+SC022,Garden,Spot facility community community meeting nearby secure facility,2023-09-01 10:28:27,2025-03-03 06:31:50
+SC023,Garden,Central available community friendly facility nearby spot gathering,2022-09-11 20:35:30,2025-03-22 09:23:24
+SC024,Garden,Nearby secure gathering reserve community meeting spot public,2022-08-02 04:55:59,2024-12-31 05:56:45
+SC025,Park,Meeting access central gathering meeting service central service,2024-04-18 22:51:57,2024-07-06 03:26:27
+SC026,Courtyard,Friendly service family secure book event book book,2020-07-15 19:27:27,2025-08-16 12:48:08
+SC027,Community Hall,Community service gathering facility event central public open,2021-03-28 06:51:36,2025-07-26 22:20:03
+SC028,Plaza,Secure reserve reserve secure access central public public,2020-02-05 17:27:31,2024-12-22 11:20:38
+SC029,Rooftop,Public access nearby service nearby open event reserve,2020-08-30 08:05:44,2024-05-11 05:10:59
+SC030,Gym,Event area nearby access friendly public community facility,2022-06-02 01:32:52,2024-07-20 03:55:31
+SC031,Park,Friendly service space public meeting space book friendly,2024-05-21 04:30:25,2025-09-08 07:28:42
+SC032,Courtyard,Central open gathering space secure central central event,2020-11-24 18:13:39,2025-09-19 08:48:16
+SC033,Plaza,Spot space spot community area open meeting central,2023-01-05 00:09:27,2024-04-11 07:47:31
+SC034,Plaza,Family facility book open book public secure nearby,2022-05-18 07:48:05,2025-06-10 08:17:05
+SC035,Auditorium,Public nearby public public public friendly reserve spot,2020-03-24 02:59:40,2024-12-01 17:58:31
+SC036,Library,Gathering facility reserve book secure area access nearby,2022-05-26 06:52:24,2024-03-12 17:19:07
+SC037,Rooftop,Open nearby facility public access book space public,2022-03-31 21:30:05,2024-04-14 06:08:34
+SC038,Library,Gathering open area secure access area access facility,2024-04-15 21:11:13,2025-08-30 09:56:19
+SC039,Auditorium,Gathering book nearby nearby service public facility public,2022-09-29 18:06:18,2024-08-24 22:52:41
+SC040,Community Hall,Community reserve secure facility community open available event,2021-09-12 22:38:42,2025-09-30 03:30:26
+SC041,Library,Book service facility facility meeting facility service service,2024-07-15 19:40:48,2025-07-13 00:38:36
+SC042,Park,Nearby family public facility family access community open,2023-09-12 11:02:00,2025-12-24 05:58:34
+SC043,Garden,Access event gathering friendly spot facility spot service,2022-08-20 17:19:38,2025-07-29 05:41:27
+SC044,Plaza,Space meeting spot gathering book friendly meeting space,2023-04-24 01:38:33,2024-05-11 13:20:26
+SC045,Rooftop,Secure spot friendly available gathering access nearby access,2020-04-25 08:53:31,2024-09-10 08:32:32
+SC046,Open Space,Spot central space event event community event facility,2024-11-03 15:22:54,2025-08-04 18:44:30
+SC047,Auditorium,Meeting book spot nearby gathering gathering spot secure,2020-07-23 07:29:48,2024-12-10 18:05:07
+SC048,Plaza,Secure book open meeting nearby area available nearby,2020-06-03 19:30:32,2024-08-07 10:27:44
+SC049,Open Space,Community nearby access area reserve space secure space,2021-11-20 09:57:10,2024-03-09 20:37:22
+SC050,Plaza,Facility area friendly book event secure access service,2021-02-13 15:05:04,2025-02-15 09:08:53
+SC051,Courtyard,Service book service family available service open facility,2023-09-15 17:00:49,2024-10-01 23:13:34
+SC052,Plaza,Secure family central central reserve space area facility,2021-05-07 05:28:42,2025-12-02 10:55:57
+SC053,Auditorium,Access family central available secure meeting meeting open,2023-11-07 21:53:24,2024-08-29 14:46:37
+SC054,Gym,Public open area secure facility spot access available,2020-03-16 07:21:15,2024-06-12 09:55:44
+SC055,Community Hall,Community friendly meeting spot available community reserve friendly,2020-04-23 03:03:20,2024-11-17 21:54:12
+SC056,Open Space,Family central access gathering book space central reserve,2020-10-14 08:35:38,2024-04-24 20:47:18
+SC057,Plaza,Central service secure central central meeting family area,2020-09-07 11:24:39,2024-12-03 21:16:28
+SC058,Auditorium,Secure reserve central area public area meeting access,2024-11-02 21:27:44,2024-02-27 17:51:12
+SC059,Plaza,Gathering central event access book nearby family central,2022-01-13 17:18:08,2025-01-11 11:13:12
+SC060,Park,Available central community reserve friendly space central book,2021-06-02 20:07:27,2025-01-28 11:15:36
+SC061,Rooftop,Central book service area access community nearby central,2021-06-07 10:57:18,2024-04-02 08:34:22
+SC062,Open Space,Area family central available family friendly access community,2024-11-09 02:54:58,2025-05-18 17:09:06
+SC063,Auditorium,Central event access central public open meeting space,2022-05-11 21:55:20,2025-07-14 11:53:50
+SC064,Garden,Book friendly available open access available community area,2021-09-17 11:25:20,2025-08-12 02:59:38
+SC065,Library,Open service nearby secure friendly secure book friendly,2021-10-16 16:26:17,2025-05-04 04:51:39
+SC066,Open Space,Open spot event meeting space gathering gathering gathering,2024-09-05 20:46:02,2024-08-17 00:45:17
+SC067,Park,Central available available central nearby open reserve open,2022-04-01 22:30:03,2025-03-15 21:51:34
+SC068,Open Space,Public nearby open spot community service friendly central,2024-08-21 17:59:29,2024-05-01 08:10:23
+SC069,Gym,Open family friendly meeting facility public family available,2024-08-14 10:18:09,2025-11-24 06:53:40
+SC070,Auditorium,Open friendly community nearby area facility area spot,2023-08-18 16:40:52,2024-03-28 00:22:32
+SC071,Garden,Public event book book reserve reserve reserve meeting,2020-07-14 20:16:47,2024-03-01 01:53:50
+SC072,Rooftop,Central facility gathering available book secure reserve secure,2020-01-11 09:14:07,2025-05-31 22:33:39
+SC073,Auditorium,Event gathering gathering nearby spot spot meeting service,2021-11-25 17:02:32,2024-05-15 03:15:50
+SC074,Rooftop,Reserve access meeting event nearby facility nearby meeting,2022-01-08 15:39:32,2024-10-16 09:35:00
+SC075,Courtyard,Secure central service access open reserve facility nearby,2023-02-12 23:56:09,2025-10-13 16:01:10
+SC076,Park,Open space open facility open facility public family,2022-10-10 01:29:06,2025-03-28 12:58:49
+SC077,Plaza,Facility facility secure family public space family open,2020-12-10 18:31:21,2024-10-06 20:30:25
+SC078,Courtyard,Area nearby community friendly open central area facility,2020-07-12 11:57:57,2024-01-27 10:21:01
+SC079,Library,Gathering spot nearby secure open space secure book,2022-07-18 22:52:39,2024-10-02 21:38:03
+SC080,Park,Event community available facility central nearby central friendly,2020-09-21 07:41:44,2024-02-19 23:26:03
+SC081,Open Space,Event space space nearby gathering gathering open nearby,2024-11-07 14:31:26,2024-04-01 00:44:48
+SC082,Gym,Open friendly meeting friendly book public facility access,2024-07-09 11:17:25,2025-12-02 21:58:23
+SC083,Community Hall,Gathering space gathering open access gathering meeting available,2020-07-03 15:23:02,2025-01-12 22:21:00
+SC084,Community Hall,Access access community event facility area book open,2022-10-11 19:11:51,2025-10-06 23:33:53
+SC085,Plaza,Space facility space secure event nearby book event,2021-05-24 19:02:42,2025-03-13 10:45:29
+SC086,Courtyard,Community space community public access space book spot,2021-06-02 12:56:30,2024-09-17 21:19:11
+SC087,Library,Friendly community reserve facility friendly secure community access,2023-12-13 10:50:13,2024-11-17 21:22:46
+SC088,Garden,Friendly access secure event central secure area space,2023-05-22 09:26:29,2025-11-20 03:52:16
+SC089,Auditorium,Service community public open facility book family nearby,2023-05-17 17:43:15,2024-11-06 22:31:07
+SC090,Courtyard,Gathering book book gathering event public community public,2020-02-02 06:51:10,2024-01-28 07:37:04
+SC091,Garden,Available available access available friendly open event facility,2022-08-28 15:21:36,2024-01-23 04:14:24
+SC092,Community Hall,Central reserve access facility community access area meeting,2024-08-25 14:15:45,2024-02-22 12:09:18
+SC093,Park,Public secure access access facility spot reserve nearby,2020-03-16 17:44:57,2025-02-13 17:41:54
+SC094,Plaza,Spot available book secure facility reserve service access,2021-10-08 20:08:36,2024-03-06 09:45:07
+SC095,Auditorium,Family public available available access access open reserve,2022-08-19 12:31:08,2025-03-24 08:27:02
+SC096,Plaza,Area central event available secure book public meeting,2023-12-27 14:12:46,2025-03-02 23:45:24
+SC097,Rooftop,Friendly friendly secure available meeting reserve book public,2021-02-12 05:41:28,2025-09-12 17:55:11
+SC098,Library,Friendly central facility area spot nearby gathering meeting,2023-10-18 05:46:28,2024-06-27 18:19:51
+SC099,Park,Secure event public area spot facility nearby friendly,2024-04-24 01:41:57,2025-07-24 09:44:20
+SC100,Community Hall,Family family available public space central friendly nearby,2024-03-27 04:02:19,2024-04-18 22:13:48
